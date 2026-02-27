@@ -1,6 +1,6 @@
-# CloudVault Lite: Multi-Cloud Bucket Scanner
+Multi-Cloud Bucket Scanner
 
-**Author**: Manus AI
+
 
 ## Overview
 
