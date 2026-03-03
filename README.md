@@ -43,7 +43,7 @@ It identifies:
 
 ## Project Structure
 
-S3-Bucket-Listener/
+S3-Bucket-Listener
 
 ├── S3_bucket_scanner.py
 
