@@ -44,10 +44,11 @@ It identifies:
 ## Project Structure
 
 S3-Bucket-Listener/
-│
-├── zaicloudecodev2.py
-├── requirements.txt
+
+├── S3_bucket_scanner.py
+
 ├── LICENSE
+
 └── README.md
 
 ---
@@ -71,11 +72,11 @@ pip install -r requirements.txt
 
 Basic scan:
 
-python zaicloudecodev2.py targetname
+python S3_bucket_scanner.py targetname
 
 Example:
 
-python zaicloudecodev2.py mycompany
+python S3_bucket_scanner.py mycompany
 
 The tool will:
 1. Generate bucket/container name permutations.
@@ -105,6 +106,7 @@ Total Files Found: 3
 - index.html  
 
 ---
+
 
 ## Disclaimer
 
