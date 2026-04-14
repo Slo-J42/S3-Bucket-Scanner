@@ -1,4 +1,11 @@
-# CloudACLCheck_Detector
+# S3 Bucket Listener / Cloud ACL Check Detector
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Type](https://img.shields.io/badge/Type-Red--Team%20Recon-red)
+![Focus](https://img.shields.io/badge/Focus-Cloud%20Security-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 CloudACLCheck_Detector is an advanced autonomous security agent designed to discover, audit, and analyze cloud storage assets (AWS S3, GCP Storage, Azure Blob).
 
