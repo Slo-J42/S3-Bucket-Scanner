@@ -1,5 +1,5 @@
 
-# S3 Bucket Listener / Cloud Asset Scanner
+# S3 Bucket Listener / Cloud ACL Check Detector
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
