@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
-CloudACLCheck_Detector is an advanced autonomous security agent designed to discover, audit, and analyze cloud storage assets (AWS S3, GCP Storage, Azure Blob).
+S3 Bucket Listener or Cloud ACL Check Detector is an advanced autonomous security agent designed to discover, audit, and analyze cloud storage assets (AWS S3, GCP Storage, Azure Blob).
 
 Unlike standard scanners that rely solely on name permutations, this agent utilizes OSINT techniques (Source Code Scraping, CNAME Fingerprinting) to find hidden buckets, analyzes their ACL policies, and provides a Grouped File Management System for safe data exfiltration and auditing.
 
