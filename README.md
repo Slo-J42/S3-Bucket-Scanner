@@ -188,7 +188,7 @@ Download ALL 2 files in 'Backups & Archives'? (y/n): y
 For detailed technical specifications, architecture diagrams, and phase breakdowns, please refer to the included documentation:
 
 ![Cloud ACL Documentation.docx](https://github.com/Slo-J42/S3-Bucket-Scanner/blob/main/CloudACL_Documentation.docx)
-
+![Cloud ACL Documentation.pdf](https://github.com/Slo-J42/S3-Bucket-Scanner/blob/main/CloudACL_Documentation%20(1).pdf)
 
 
 ---
