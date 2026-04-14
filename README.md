@@ -51,7 +51,7 @@ Unlike standard scanners that rely solely on name permutations, this agent utili
 
 ```bash
 git clone https://github.com/Slo-J42/S3-Bucket-Scanner.git
-cd S3_bucket_scanner
+cd S3-Bucket-Scanner
 pip install requests
 ```
 
